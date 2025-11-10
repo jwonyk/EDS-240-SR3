@@ -1,4 +1,4 @@
-# End-of-course self-reflection (SR #3)
+# End-of-course self reflection (SR #3)
 
 A place to reflect on your learning throughout EDS 240.
 

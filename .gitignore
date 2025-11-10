@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+*.html
+SR3_files/
+.DS_Store
